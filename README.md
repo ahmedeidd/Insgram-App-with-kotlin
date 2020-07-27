@@ -7,6 +7,6 @@
 
 <img src="screenshots/screenshot_7.png" width="250">   <img src="screenshots/screenshot_9.png" width="250"> <img src="screenshots/screenshot_8.png" width="250">
 
-<img src="screenshots/screenshot10_new.png" width="250"> <img src="screenshots/screenshot11_new.png" width="250">
+<img src="screenshots/screenshot_10.png" width="250"> <img src="screenshots/screenshot_11.png" width="250">
 
-<img src="screenshots/screenshot12_new.png" width="250"> <img src="screenshots/screenshot13_new.png" width="250">
+<img src="screenshots/screenshot_12.png" width="250"> <img src="screenshots/screenshot_13.png" width="250">
