@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "352648137802",
+    "firebase_url": "https://instgram-eid.firebaseio.com",
+    "project_id": "instgram-eid",
+    "storage_bucket": "instgram-eid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352648137802:android:ea736f23954f88d05b6ab3",
+        "android_client_info": {
+          "package_name": "com.example.instgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352648137802-insd3qr6j0mmfssedsm0g5u22e04dfa5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDArUYbiAM7hjRTXz3YpDknvzB9nSegnvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352648137802-insd3qr6j0mmfssedsm0g5u22e04dfa5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
